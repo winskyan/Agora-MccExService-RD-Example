@@ -1,0 +1,25 @@
+<resources>
+    <string name="application_name" translatable="false">MccEx研发内测</string>
+    <string name="broadcaster" translatable="false">主播</string>
+    <string name="audience" translatable="false">观众</string>
+    <string name="join" translatable="false">加入房间</string>
+    <string name="leave" translatable="false">离开房间</string>
+    <string name="play" translatable="false">播放</string>
+    <string name="pause" translatable="false">暂停</string>
+    <string name="stop" translatable="false">停止</string>
+    <string name="play_original" translatable="false">原唱</string>
+    <string name="play_accompany" translatable="false">伴唱</string>
+    <string name="interface_test" translatable="false">接口测试</string>
+    <string name="test_failed" translatable="false">测试失败</string>
+    <string name="test_success" translatable="false">测试成功</string>
+    <string name="skip_the_intro" translatable="false">跳过前奏</string>
+    <string name="set_audio_pitch" translatable="false">设置Pitch</string>
+    <string name="song_full" translatable="false">整曲</string>
+    <string name="song_high_part" translatable="false">片段</string>
+    <string name="download">下载</string>
+    <string name="play_btn">播放</string>
+    <string name="playing">播放中</string>
+    <string name="waiting_download">等待下载</string>
+    <string name="download_failed">下载失败</string>
+    <string name="downloaded">已下载</string>
+</resources>
